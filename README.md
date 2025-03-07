@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Barış Özdemirci
 
-## 💻 Front-End Developer & Tech Enthusiast
+## 💻 Front-End Developer
 ![Profile Views](https://komarev.com/ghpvc/?username=ozdemircibaris&color=0891b2&style=flat-square)
 
 I'm a Front-End Developer with 7 years of experience. I've focused primarily on JavaScript and TypeScript throughout my career, and I'm experienced with popular JavaScript frameworks such as ReactJS, NextJS, and NodeJS.
