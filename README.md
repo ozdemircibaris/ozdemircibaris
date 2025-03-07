@@ -31,4 +31,3 @@ I enjoy taking on occasional backend challenges to develop my end-to-end thinkin
 
 ---
 
-✨ *Always learning, always coding* ✨
