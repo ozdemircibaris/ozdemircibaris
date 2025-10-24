@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Baris
-## 💻 Full Stack Developer
+# 👋 Hey, I'm Baris
+## Full Stack Developer
 
 I'm a Full Stack Developer with 7+ years of experience. Specialized in React, React Native, Node.js, and TypeScript. Experienced with AI & LLM integration, real-time applications, and building scalable products.
 
 ---
 
-### 🔍 Skills
+### Skills
 - **Frontend**: React, Next.js, React Native, TypeScript, Tailwind, Zustand  
 - **Backend**: Node.js, Express, PostgreSQL, Redis  
 - **AI & LLM**: OpenAI, Gemini, Whisper, Polly, Stable Diffusion  
@@ -14,7 +14,7 @@ I'm a Full Stack Developer with 7+ years of experience. Specialized in React, Re
 
 ---
 
-### 💪 Tech Stack
+### Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -29,12 +29,12 @@ I'm a Full Stack Developer with 7+ years of experience. Specialized in React, Re
 
 ---
 
-### 🚀 My Approach
+### My Approach
 I enjoy full stack development with a focus on shipping production-ready features. While continuously growing in my career, I maintain a constant drive to improve and expand my skill set. I closely follow innovations in AI, real-time systems, and modern web architecture.
 
 ---
 
-### 📊 GitHub Stats
+### 📊GitHub Stats
 
 ![ozdemircibaris's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ozdemircibaris&show_icons=true&count_private=true&title_color=FACC15&text_color=E5E7EB&icon_color=FACC15&bg_color=0F0F0F&hide_border=true&border_radius=10&line_height=30)
 
@@ -44,7 +44,7 @@ I enjoy full stack development with a focus on shipping production-ready feature
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <div>
   <a href="https://www.linkedin.com/in/ozdemircibaris/">
