@@ -46,12 +46,9 @@ I enjoy full stack development with a focus on shipping production-ready feature
 
 ### 📫 Connect With Me
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/ozdemircibaris/">
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ozdemircibaris">
-    <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=FACC15" alt="GitHub" />
   </a>
   <a href="mailto:ozdemircibaris@gmail.com">
     <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
